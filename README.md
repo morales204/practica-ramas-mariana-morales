@@ -1,2 +1,1 @@
-# practica-ramas-mariana-morales
-# Proyecto de Práctica - Gestión de Ramas
+-Mariana Morales Rodríguez 10 A, - Descripción: La siguiente actividad tiene como finalidad de conocer mejor las herramientas para el control de versiones, protegiendo ramas y realizar un buen pull request
